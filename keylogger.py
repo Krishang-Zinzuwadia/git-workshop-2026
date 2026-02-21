@@ -1,5 +1,7 @@
 #chatgpt generated
 
+#pip install pynput
+
 from pynput import keyboard
 
 def on_press(key):
